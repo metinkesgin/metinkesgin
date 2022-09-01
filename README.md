@@ -1,6 +1,7 @@
-### Hi there 👋
-- 🔭 I’m currently working on STM32 and AHRS
-- 🌱 I’m currently learning Real Time Operating System
+### Hi there 👋 ![Profile views](https://gpvc.arturio.dev/metinkesgin)
+
+- 🔭 I’m currently working on STM32, AHRS and IMU.
+- 🌱 I’m currently learning Real Time Operating System.
 
 
 
