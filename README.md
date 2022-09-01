@@ -6,7 +6,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metinkesgin&layout=compact&show_icons=true&theme=vision-friendly-dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=metinkesgin&layout=compact&show_icons=true&theme=dark)
 
 
 <!--
