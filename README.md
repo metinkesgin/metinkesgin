@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on STM32 and AHRS
+- 🌱 I’m currently learning Real Time Operating System
+
+
 
 <!--
 **metinkesgin/metinkesgin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
